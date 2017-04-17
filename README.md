@@ -5,7 +5,7 @@
 
 ```bash
 $ npm install
-$ npm start
+$ npm startasdasadsadsads
 ```
 
 ## Running with docker-compose
