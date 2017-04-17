@@ -21,7 +21,7 @@
     "prestart": "gulp"
   },
   "author": "Runnable, Inc.",
-  "license": "MIT",
+  "license": "GNU",
   "bugs": {
     "url": "https://github.com/RunnableDemoForYash/web/issues"
   },
